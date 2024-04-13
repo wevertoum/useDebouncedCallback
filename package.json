@@ -1,0 +1,36 @@
+{
+  "name": "use-debounced-callback",
+  "version": "1.0.0",
+  "description": "React hook for debounced function calls, optimizing performance.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wevertoum/useDebouncedCallback.git"
+  },
+  "keywords": [
+    "React",
+    "Hook",
+    "Debounce",
+    "Callback",
+    "Optimization",
+    "Performance",
+    "Function",
+    "Utility",
+    "Frontend",
+    "WebDevelopment",
+    "JavaScript"
+  ],
+  "author": "Weverton Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wevertoum/useDebouncedCallback/issues"
+  },
+  "homepage": "https://github.com/wevertoum/useDebouncedCallback#readme",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
